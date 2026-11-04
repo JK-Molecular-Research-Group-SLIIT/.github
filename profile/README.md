@@ -14,9 +14,10 @@ The group aims to promote **innovative, multidisciplinary, and translational res
 
 ## Key Research Areas
 
-- AI-Driven Pipeline for Diabetic Target Prediction (AIDTP)
-- AI-Driven Web Platform for Antidiabetic Drug Discovery (AIWeb-ADD)
-- AI-Generated Molecule Development for Antidiabetic Drug Discovery (GenAI-ADD)
+- AI-Driven Pipeline for Diabetic Target Prediction, Web Platform for Antidiabetic Drug Discovery, AI-Generated Molecule Development for Antidiabetic Drug Discovery 
+- Computational screening and Molecular Docking of DNA Aptamers Against Dengu NS1
+
+Protein
 
 ---
 
@@ -33,5 +34,6 @@ https://sdtl-dash-progress.lovable.app/
 | Dr. Muhammad Naveed | Professor/Principle Investigator | [dr.naveed@ucp.edu.pk](mailto:dr.naveed@ucp.edu.pk) | PhD in Genomics and Bioinformatics (Biotechnology), Quaid-e-Azam University, Islamabad |
 | Mr. Anu Gamage | Co-Investigator | [anu@standardseedai.com](mailto:anu@standardseedai.com) | B.Sc. Honours in M.L.S, University of Ruhuna, Sri Lanka; Ph.D Bioengineering and Biophysics (Reading) Nagaoka University of Technology, Japan; Team Lead Research Scientist (Bioinformatics/Cheminformatics), Standard Seed Corporation, U.S.A |
 | Ms. Dharani Ariyasinghe | Research Assistant | [dharaniariyasinghe312@gmail.com](mailto:dharaniariyasinghe312@gmail.com) | B.Sc. Honours in Animal Science, University of Peradeniya, Sri Lanka (Reading); B.Sc. Chemistry External, University of Colombo, Sri Lanka (Reading) |
+| Mr. Chamindu Wijedoru | Research Assistant | [hs23299016@my.sliit.lk](mailto:hs23299016@my.sliit.lk) | BSc. (Hons) Biotechnology (Reading), SLIIT | 
 
 
